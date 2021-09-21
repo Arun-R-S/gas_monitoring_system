@@ -7,24 +7,24 @@ The gas leakage happens due to the use of old gas tubes, worn-out regulators, im
 
 SOFTWARE
 
-  Website Front-end :
+  **Website Front-end :**
   1. HTML
   2. CSS
   3. JavaScript
 
-  Website Framework :
+  **Website Framework :**
   1. Bootstrap
 
-  Website Back-end :
+  **Website Back-end :**
   1. PHP
 
-  Database :
+  **Database :**
   1. PhpMyAdmin (SQL)
 
-  Notification Service :
+  **Notification Service :**
   1. OneSignal
 
-  Software Tools used :
+  **Software Tools used :**
   1. Sublime Text
   2. Xampp Local Server
   3. Arduino IDE
@@ -33,7 +33,7 @@ SOFTWARE
 
 HARDWARE
 
-  Hardware components :
+  **Hardware components :**
   1. Node MCU
   2. Cylinder Regulator
   3. MQ-6 Sensor
