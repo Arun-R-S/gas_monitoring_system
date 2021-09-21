@@ -5,7 +5,8 @@
 The gas leakage happens due to the use of old gas tubes, worn-out regulators, improper cylinder knobs, etc. Small leakage causes a wide range of damage when burst. So, this device will detect the leakage of gas and alert the house owner immediately. This can be completely monitored by an IoT automation website. I have developed my own IoT website which brings automation to the gas monitoring system. It also sends a push notification to the user's mobile which helps to alert the user remotely. The NodeMCU continuously feeds the data to the server which makes this an IoT-based project. This device is portable so it can be installed easily.
 
 
-SOFTWARE :
+SOFTWARE
+
   Website Front-end :
   1. HTML
   2. CSS
@@ -30,7 +31,8 @@ SOFTWARE :
   4. Chrome Developer Tool
 
 
-HARDWARE :
+HARDWARE
+
   Hardware components :
   1. Node MCU
   2. Cylinder Regulator
