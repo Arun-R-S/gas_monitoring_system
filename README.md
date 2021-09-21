@@ -1,4 +1,4 @@
-# [IoT Based Gas Monitoring System](https://arunrs.epizy.com/project/gas_monitoring_system)
+# IoT Based Gas Monitoring System
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/96/original/opt_ad_thumbnail.jpg)
 
